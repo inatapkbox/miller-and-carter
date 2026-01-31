@@ -18,8 +18,9 @@ $info_url = "https://miller-carter.neocities.org/";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="google-site-verification" content="IBjJxOq4jF93S1rXvtGAIjuZfJYqMcU9h48-z3AttRQ" />
     <meta name="description" content="<?php echo htmlspecialchars($meta_description); ?>">
-    <link rel="canonical" href="<?php echo $canonical_url; ?>">
+    <link rel="canonical" href="https://miller-and-carter-0cc1a20cf39f.herokuapp.com/">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <style>
         * { 
